@@ -1,0 +1,6 @@
+{
+  "name": "GeoEstate - Property Description & Google Maps Visualizer",
+  "description": "Describe properties, enter Google Maps coordinates, visualize with high-resolution Google Maps imagery, and gain deep AI insights with high-thinking reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
